@@ -70,7 +70,7 @@ p::first-letter {
     width: 30%;
     float: right;
     color: brown;
-    background-color: aquamarine;
+    background-color: rgb(255, 0, 255);
 }
 .column {
     width: 390px;
