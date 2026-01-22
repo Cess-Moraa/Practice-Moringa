@@ -1,0 +1,10 @@
+.important {
+  color: red;
+}
+.emphasize {
+  font-weight: bold;
+}
+
+.highlight {
+  background-color: yellow;
+}
